@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "carry",
+					"strict" : false
+				},
+				{
+					"name" : "inaled[0]",
+					"strict" : false
+				},
+				{
+					"name" : "inaled[1]",
+					"strict" : false
+				},
+				{
+					"name" : "inaled[2]",
+					"strict" : false
+				},
+				{
+					"name" : "inaled[3]",
+					"strict" : false
+				},
+				{
+					"name" : "inbled[0]",
+					"strict" : false
+				},
+				{
+					"name" : "inbled[1]",
+					"strict" : false
+				},
+				{
+					"name" : "inbled[2]",
+					"strict" : false
+				},
+				{
+					"name" : "inbled[3]",
+					"strict" : false
+				},
+				{
+					"name" : "opled[0]",
+					"strict" : false
+				},
+				{
+					"name" : "opled[1]",
+					"strict" : false
+				},
+				{
+					"name" : "opled[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sel_led",
+					"strict" : false
+				},
+				{
+					"name" : "a[0]",
+					"strict" : false
+				},
+				{
+					"name" : "b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[1]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[2]",
+					"strict" : false
+				},
+				{
+					"name" : "b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "a[1]",
+					"strict" : false
+				},
+				{
+					"name" : "in_sel",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[0]",
+					"strict" : false
+				},
+				{
+					"name" : "b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "a[2]",
+					"strict" : false
+				},
+				{
+					"name" : "b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "a[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
